@@ -11,7 +11,8 @@
 
 ### 🚴 **In Progress**
  - [ ] **Project name** - Project description
-> 🔗 [Repo Link]() (to be added)
+> 🔗 [Repo Link]() (to be added)<br>
+> 📊 Completion rate: 70% [◼️◼️◼️◾️◻️]
 
 
 ### 🏆 **Completed**
