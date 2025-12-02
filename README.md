@@ -6,16 +6,29 @@
 
 ## ⚠️ Under Construction...
 
+## Index
+* [in progress](###In Progress)
 
 ### 🚴 **In Progress**
  - [ ] **Project name** - Project description
 > 🔗 [Repo Link]() (to be added)<br>
-> 📊 Completion rate: 70% [◼️◼️◼️◾️◻️]
+> 📈 Completion rate: 70% [◼️◼️◼️◾️◻️]
 
 /<!--
 
 ## 🎊 2025 Finish
-### 🏆 Project Of The Year: [project name]
+### 📊 2025 Stats
+- Completed Projects: 0
+- New Stack Acquired: @
+
+### 🏆 **Project Of The Year(POTY): [project name]**
 > 🔗 [Repo Link]()<br>
-> 🎯
+
+### 🤪 Most Fun Award
+
+### 🥵 Challenge Award
+
+### 💡 Best Idea Award
+
+### 🧠 Best Learning Award
 -->
