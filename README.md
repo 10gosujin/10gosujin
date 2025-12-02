@@ -4,9 +4,7 @@
 **10gosujin/10gosujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 🕺 **To do**
- - ☝️ **Arch linux install**
-> 🏁 **Goal**: Arch linux install and optimization
+## ⚠️ Under Construction...
 
 
 ### 🚴 **In Progress**
@@ -14,8 +12,10 @@
 > 🔗 [Repo Link]() (to be added)<br>
 > 📊 Completion rate: 70% [◼️◼️◼️◾️◻️]
 
+/<!--
 
-### 🏆 **Completed**
- - [x] **Project name**
-> 🔗 [Repo Link]() (to be added)
-
+## 🎊 2025 Finish
+### 🏆 Project Of The Year: [project name]
+> 🔗 [Repo Link]()<br>
+> 🎯
+-->
