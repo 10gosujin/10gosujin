@@ -9,10 +9,10 @@
 .<!--
 
 ## Index
-* [🚴In Progress](####🚴-In-Progress)
-* [🎊 2025 Finish](###🎊-2025-Finish)
+* [🚴In Progress](#🚴-In-Progress)
+* [🎊 2025 Finish](#🎊-2025-Finish)
 
-### 🚴 **In Progress**
+#### 🚴 **In Progress**
  - [ ] **Project name** - Project description
 * 🔗 [Repo Link]() (to be added)
 * 📈 Completion rate: 70% [◼️◼️◼️◾️◻️]
