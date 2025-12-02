@@ -7,7 +7,8 @@
 ## ⚠️ Under Construction...
 
 ## Index
-* [🚴in progress](###🚴-In-Progress)
+* [🚴In Progress](###🚴-In-Progress)
+* [🎊 2025 Finish](##🎊-2025-Finish)
 
 ### 🚴 **In Progress**
  - [ ] **Project name** - Project description
@@ -21,14 +22,15 @@
 - Completed Projects: 0
 - New Stack Acquired: @
 
-### 🏆 **Project Of The Year(POTY): [project name]**
-> 🔗 [Repo Link]()<br>
+### 🏆 **Project Of The Year(POTY): project name**
+> 🔗 [Repo Link]()
 
-### 🤪 Most Fun Award
-
-### 🥵 Challenge Award
-
-### 💡 Best Idea Award
-
-### 🧠 Best Learning Award
+### 🤪 **Most Fun Award: Project name**
+> 🔗 [Repo Link]()
+### 🥵 **Challenge Award: Project name**
+> 🔗 [Repo Link]()
+### 💡 **Best Idea Award: Project name**
+> 🔗 [Repo Link]()
+### 🧠 **Best Learning Award: Project name**
+> 🔗 [Repo Link]()
 -->
