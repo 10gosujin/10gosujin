@@ -6,35 +6,31 @@
 
 ## ⚠️ Under Construction...
 
-/<!--
+<!--
 
 ## Index
-* [🚴In Progress](###🚴-In-Progress)
-* [🎊 2025 Finish](##🎊-2025-Finish)
-* [test](##test)
+* [🚴In Progress](####🚴-In-Progress)
+* [🎊 2025 Finish](###🎊-2025-Finish)
 
 ### 🚴 **In Progress**
  - [ ] **Project name** - Project description
 * 🔗 [Repo Link]() (to be added)
 * 📈 Completion rate: 70% [◼️◼️◼️◾️◻️]
 
-## 🎊 2025 Finish
-### 📊 2025 Stats
+### 🎊 2025 Finish
+#### 📊 2025 Stats
 - Completed Projects: 0
 - New Stack Acquired: @
 
-### 🏆 **Project Of The Year(POTY): project name**
+#### 🏆 **Project Of The Year(POTY): project name**
 * 🔗 [Repo Link]()
 
-### 🤪 **Most Fun Award: Project name**
+#### 🤪 **Most Fun Award: Project name**
 * 🔗 [Repo Link]()
-### 🥵 **Challenge Award: Project name**
+#### 🥵 **Challenge Award: Project name**
 * 🔗 [Repo Link]()
-### 💡 **Best Idea Award: Project name**
+#### 💡 **Best Idea Award: Project name**
 * 🔗 [Repo Link]()
-### 🧠 **Best Learning Award: Project name**
+#### 🧠 **Best Learning Award: Project name**
 * 🔗 [Repo Link]()
-
-
-## test
 -->
