@@ -9,8 +9,8 @@
 .<!--
 
 ## Index
-* [🚴In Progress](#🚴-In-Progress)
-* [🎊 2025 Finish](#🎊-2025-Finish)
+* [🚴In Progress](#🚴-in-progress)
+* [🎊 2025 Finish](#🎊-2025-finish)
 
 #### 🚴 **In Progress**
  - [ ] **Project name** - Project description
