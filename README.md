@@ -34,7 +34,9 @@
 #### 🧠 **Best Learning Award: Project name**
 * 🔗 [Repo Link]()
 
-| project name | image |
-| :--- | :---: |
-| Project A | <img src="URL" width="100" /> |
+| Award | project name | image |
+| :---: | :---: | :---: |
+| **POTY** | Project A | <img src="URL" width="100" /> |
+
+
 -->
